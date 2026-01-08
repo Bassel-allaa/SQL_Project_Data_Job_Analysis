@@ -10,7 +10,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 ## 📜 Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, helping job seekers find optimal opportunities.
 
-The data is sourced from my **SQL Course**, providing rich insights into job titles, salaries, locations, and the essential skills required in 2023.
+The data is sourced from Luke Baruousse's **SQL Course**, providing rich insights into job titles, salaries, locations, and the essential skills required in 2023.
 
 ### The questions I wanted to answer:
 1. What are the top-paying data analyst jobs?
